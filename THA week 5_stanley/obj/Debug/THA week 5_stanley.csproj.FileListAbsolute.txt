@@ -1,0 +1,11 @@
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\bin\Debug\THA week 5_stanley.exe.config
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\bin\Debug\THA week 5_stanley.exe
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\bin\Debug\THA week 5_stanley.pdb
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA week 5_stanley.csproj.AssemblyReference.cache
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA week 5_stanley.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA_week_5_stanley.Form1.resources
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA_week_5_stanley.Properties.Resources.resources
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA week 5_stanley.csproj.GenerateResource.cache
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA week 5_stanley.csproj.CoreCompileInputs.cache
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA week 5_stanley.exe
+C:\Users\stanley\source\repos\THA week 5_stanley\THA week 5_stanley\obj\Debug\THA week 5_stanley.pdb
